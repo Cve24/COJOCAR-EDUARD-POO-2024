@@ -1,0 +1,6 @@
+I:\Test Area\C++\CppCLR_WinFormsProject1\CppCLR_W.092f25ab\x64\Debug\CppCLR_WinFormsProject1.vcxproj.AssemblyReference.cache
+I:\Test Area\C++\CppCLR_WinFormsProject1\CppCLR_W.092f25ab\x64\Debug\CppCLR_WinFormsProject1.Form1.resources
+I:\Test Area\C++\CppCLR_WinFormsProject1\CppCLR_W.092f25ab\x64\Debug\CppCLR_WinFormsProject1.vcxproj.GenerateResource.cache
+C:\Users\Edi\Source\Repos\Ionut-Manea-POO-2024-2-\CppCLR_WinForms_Calculator\CppCLR_W.092f25ab\x64\Debug\CppCLR_WinFormsProject1.vcxproj.AssemblyReference.cache
+C:\Users\Edi\Source\Repos\Ionut-Manea-POO-2024-2-\CppCLR_WinForms_Calculator\CppCLR_W.092f25ab\x64\Debug\CppCLR_WinFormsProject1.Form1.resources
+C:\Users\Edi\Source\Repos\Ionut-Manea-POO-2024-2-\CppCLR_WinForms_Calculator\CppCLR_W.092f25ab\x64\Debug\CppCLR_WinFormsProject1.vcxproj.GenerateResource.cache
