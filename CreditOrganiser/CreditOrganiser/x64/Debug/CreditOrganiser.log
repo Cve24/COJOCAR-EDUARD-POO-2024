@@ -1,0 +1,9 @@
+﻿  CreditCardAccount.cpp
+  CreditCardOrganizer.cpp
+  LoyalityScheme.cpp
+E:\UB\Tincu_Andrei_Victor-POO-2024\CreditOrganiser\LoyalityScheme.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\UB\Tincu_Andrei_Victor-POO-2024\CreditOrganiser\LoyalityScheme.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  .NETFramework,Version=v4.8.AssemblyAttributes.cpp
+  Generating Code...
+  CreditCardAccount.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  CreditOrganiser.vcxproj -> E:\UB\Tincu_Andrei_Victor-POO-2024\CreditOrganiser\x64\Debug\CreditOrganiser.exe

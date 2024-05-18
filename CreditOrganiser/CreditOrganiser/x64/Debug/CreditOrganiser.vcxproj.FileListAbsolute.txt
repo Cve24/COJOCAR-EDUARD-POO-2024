@@ -1,0 +1,2 @@
+E:\UB\CreditOrganiser\CreditOrganiser\x64\Debug\CreditOrganiser.vcxproj.AssemblyReference.cache
+E:\UB\Tincu_Andrei_Victor-POO-2024\CreditOrganiser\CreditOrganiser\x64\Debug\CreditOrganiser.vcxproj.AssemblyReference.cache
