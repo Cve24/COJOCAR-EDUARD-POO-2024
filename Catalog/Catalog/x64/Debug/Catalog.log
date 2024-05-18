@@ -1,0 +1,7 @@
+﻿  App.cpp
+  Catalog.cpp
+  Curs.cpp
+  Student.cpp
+  Generating Code...
+  App.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Catalog.vcxproj -> E:\UB\Tincu_Andrei_Victor-POO-2024\Catalog\x64\Debug\Catalog.exe
